@@ -22,3 +22,4 @@ pub mod new_playlist_modal;
 pub mod new_theme_modal;
 pub mod signout_modal;
 pub mod song_from_url_modal;
+pub mod update_modal;
